@@ -1,3 +1,7 @@
+
+# Note:
+This template is depracated and the default widget script in the TIXAE dashboard doesn't consume any credits on visits anymore, please use that instead as it will be much easier to maintain, setup.
+
 ## Example hosting VG script files on github pages
 Use the template then it automatically should deploy a github pages then you should be able to access the script files through 
 https://yourdomain/assets/styles.css
